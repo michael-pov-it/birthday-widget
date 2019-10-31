@@ -1,0 +1,26 @@
+{
+  "name": "birthday_widjet",
+  "version": "1.0.1",
+  "description": "test task with getData JS",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "node-fetch": "^2.6.0"
+  },
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michael-pov-it/birthday-widget.git"
+  },
+  "keywords": [],
+  "author": "Michael Pov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michael-pov-it/birthday-widget/issues"
+  },
+  "homepage": "https://github.com/michael-pov-it/birthday-widget#readme"
+}
